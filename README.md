@@ -33,7 +33,7 @@ $ npm run test
 # O servidor começará a ser atualizado continuamente até o script ser interrompido
 ```
 
-# Participante
+# Participantes
 
 -   Giovana Hostalacio
 -   João Pedro Menezes
