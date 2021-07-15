@@ -1,17 +1,18 @@
 # PCS-NodeJS
+
 Funções de protótipo de Back-End escritas em Node.js.
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas na construção dessa seção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
-- [Firebase](https://firebase.google.com/?hl=pt)
+-   [Node.js](https://nodejs.org/en/)
+-   [Firebase](https://firebase.google.com/?hl=pt)
 
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🎲 Rodando o Back End (servidor)
@@ -32,9 +33,9 @@ $ npm run test
 # O servidor começará a ser atualizado continuamente até o script ser interrompido
 ```
 
-Participantes
-=================
-  * Giovana Hostalacio
-  * João Pedro Menezes
-  * Miguel Velasques A.P.A.
-  * Vitor Santos da Costa
+# Participante
+
+-   Giovana Hostalacio
+-   João Pedro Menezes
+-   Miguel Velasques A.P.A.
+-   Vitor Santos da Costa
