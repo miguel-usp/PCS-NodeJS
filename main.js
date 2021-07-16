@@ -1,6 +1,12 @@
 var firebase = require("firebase/app");
 require("firebase/database");
 
+console.log("\x1Bc");
+console.log(`Olá mundo :)
+    Esse é o sistema de controle do servidor protótipo do grupo 18, de PCS3100, 2021.
+    
+    Já estamos fazendo tudo, por favor, aguarde um segundo...
+`);
 var firebaseConfig = {
     apiKey: "AIzaSyBOneWagWEe-JLdeFuAKjsafHx3WRJNgs0",
     authDomain: "projeto-pcs.firebaseapp.com",
@@ -30,6 +36,14 @@ function substituir() {
         tickCounter = 30;
         _senha = gerarSenha();
     }
+    console.log("\x1Bc");
+    console.log(`Olá mundo :)
+    Esse é o sistema de controle do servidor protótipo do grupo 18, de PCS3100, 2021.
+    
+    A senha já está sendo atualizada!
+    
+    Senha atual: ${_senha}
+    Tempo restante antes da mudança: ${tickCounter}s`);
     firebase
         .database()
         .ref("/portas/" + porta_id)
