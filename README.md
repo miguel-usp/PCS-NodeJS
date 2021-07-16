@@ -1,6 +1,6 @@
 # PCS-NodeJS
 
-Funções de protótipo de Back-End escritas em Node.js.
+Controlador do projeto de PCS3100, grupo 18, 2021. Funções de protótipo de Back-End escritas em Node.js.
 
 ### 🛠 Tecnologias
 
